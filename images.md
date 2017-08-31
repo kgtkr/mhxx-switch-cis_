@@ -248,7 +248,7 @@ https://ux.getuploader.com/mhxx_switch_cis/
 * [ ] -12
 * [ ] -13
 ## スロット
-* [ ] 0
-* [ ] 1
-* [ ] 2
-* [ ] 3
+* [x] 0
+* [x] 1
+* [x] 2
+* [x] 3
