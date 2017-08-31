@@ -18,7 +18,7 @@ https://ux.getuploader.com/mhxx_switch_cis/
 * [ ] 毒
 * [ ] 麻痺
 * [ ] 睡眠
-* [ ] 気絶
+* [x] 気絶
 * [x] 聴覚保護
 * [x] 風圧
 * [ ] 耐震
@@ -33,10 +33,10 @@ https://ux.getuploader.com/mhxx_switch_cis/
 * [x] 細菌学
 * [ ] 裂傷
 * [x] 攻撃
-* [ ] 防御
+* [x] 防御
 * [x] 体力
 * [x] 火耐性
-* [ ] 水耐性
+* [x] 水耐性
 * [x] 雷耐性
 * [x] 氷耐性
 * [x] 龍耐性
@@ -49,7 +49,7 @@ https://ux.getuploader.com/mhxx_switch_cis/
 * [x] 属性攻撃
 * [x] 特殊攻撃
 * [x] 研ぎ師
-* [ ] 匠
+* [x] 匠
 * [x] 斬れ味
 * [x] 剣術
 * [x] 研磨術
@@ -105,7 +105,7 @@ https://ux.getuploader.com/mhxx_switch_cis/
 * [x] 減気攻撃
 * [x] 笛
 * [x] 砲術
-* [ ] 重撃
+* [x] 重撃
 * [x] 爆弾強化
 * [x] 本気
 * [x] 闘魂
@@ -118,7 +118,7 @@ https://ux.getuploader.com/mhxx_switch_cis/
 * [x] 窮地
 * [x] 根性
 * [ ] 気配
-* [ ] 采配
+* [x] 采配
 * [x] 号令
 * [x] 乗り
 * [x] 跳躍
@@ -132,14 +132,14 @@ https://ux.getuploader.com/mhxx_switch_cis/
 * [x] 加護
 * [x] 英雄の盾
 * [x] 回復量
-* [ ] 回復速度
+* x] 回復速度
 * [ ] 効果持続
 * [x] 広域
 * [x] 腹減り
 * [ ] 食いしん坊
 * [x] 食事
 * [x] 節食
-* [ ] 肉食
+* [x] 肉食
 * [x] 茸食
 * [ ] 野草知識
 * [ ] 調合成功率
@@ -160,16 +160,16 @@ https://ux.getuploader.com/mhxx_switch_cis/
 * [ ] 飛行酒場
 * [ ] 紅兜
 * [ ] 大雪主
-* [ ] 矛砕
+* [x] 矛砕
 * [x] 岩穿
 * [x] 紫毒姫
-* [ ] 宝纏
+* [x] 宝纏
 * [ ] 白疾風
 * [ ] 隻眼
-* [ ] 黒炎王
+* [x] 黒炎王
 * [ ] 金雷公
 * [ ] 荒鉤爪
-* [ ] 燼滅刃
+* [x] 燼滅刃
 * [ ] 朧隠
 * [ ] 鎧裂
 * [ ] 天眼
