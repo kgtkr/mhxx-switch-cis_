@@ -56,7 +56,7 @@ https://ux.getuploader.com/mhxx_switch_cis/
 * [x] 匠
 * [x] 斬れ味
 * [x] 剣術
-* [x] 研磨術
+* [ ] 研磨術
 * [x] 鈍器
 * [x] 抜刀会心
 * [x] 抜刀減気
@@ -117,7 +117,7 @@ https://ux.getuploader.com/mhxx_switch_cis/
 * [x] チャンス
 * [ ] 龍気
 * [x] 底力
-* [ ] 逆境
+* [x] 逆境
 * [x] 逆上
 * [x] 窮地
 * [x] 根性
